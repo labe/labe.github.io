@@ -18,7 +18,7 @@ Thus it was that in my 17th week at Dev Bootcamp, I had a fortuitous encounter w
 
 The following day, on my lunch break, I attempted said problem and got to the solution using a Google Docs spreadsheet, and whatever hooks Prolog had sunk into me the day before only dug in deeper after my hour spent buried in pure logical deduction.
 
-I have since resolved to learn as much as I can about Prolog. There's a fair amount of [documentation](http://www.swi-prolog.org/download/stable/doc/SWI-Prolog-6.4.1.pdf) at the moment, including a [nice Wikipedia page](http://en.wikipedia.org/wiki/Prolog) and this [pretty neat tutorial](http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html), but it's all written in a classical (read: dry) style that makes it hard to stay engaged. My greater aim is to learn as much as I can about Prolog so I can encourage others in this modern era of programming-language-learning tp see the value and beauty (and practical application) of Prolog's essence.
+I have since resolved to learn as much as I can about Prolog. There's a fair amount of [documentation](http://www.swi-prolog.org/download/stable/doc/SWI-Prolog-6.4.1.pdf) at the moment, including a [nice Wikipedia page](http://en.wikipedia.org/wiki/Prolog) and this [pretty neat tutorial](http://www.learnprolognow.org/lpnpage.php), but it's all written in a classical (read: dry) style that makes it hard to stay engaged. My greater aim is to learn as much as I can about Prolog so I can encourage others in this modern era of programming-language-learning tp see the value and beauty (and practical application) of Prolog's essence.
 
 ##But why Prolog? It's 40 years old. It's practically FORTRAN! HAHAHA FORTRAN.
 
