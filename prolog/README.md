@@ -18,20 +18,20 @@ Thus it was that in my 17th week at Dev Bootcamp, I had a fortuitous encounter w
 
 The following day, on my lunch break, I attempted said problem and got to the solution using a Google Docs spreadsheet, and whatever hooks Prolog had sunk into me the day before only dug in deeper after my hour spent buried in pure logical deduction.
 
-I have since resolved to learn as much as I can about Prolog. There's a fair amount of [documentation](http://www.swi-prolog.org/download/stable/doc/SWI-Prolog-6.4.1.pdf) at the moment, including a [nice Wikipedia page](http://en.wikipedia.org/wiki/Prolog) and this [pretty neat tutorial](http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html), but it's all written in a classical (read: dry) style that makes it hard to stay engaged. My greater aim is to learn as much as I can about Prolog so I can produce new material to help others in this modern era of programming-language-learning see the value and beauty (and practical application) of Prolog's essence.
+I have since resolved to learn as much as I can about Prolog. There's a fair amount of [documentation](http://www.swi-prolog.org/download/stable/doc/SWI-Prolog-6.4.1.pdf) at the moment, including a [nice Wikipedia page](http://en.wikipedia.org/wiki/Prolog) and this [pretty neat tutorial](http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html), but it's all written in a classical (read: dry) style that makes it hard to stay engaged. My greater aim is to learn as much as I can about Prolog so I can encourage others in this modern era of programming-language-learning tp see the value and beauty (and practical application) of Prolog's essence.
 
 ##But why Prolog? It's 40 years old. It's practically FORTRAN! HAHAHA FORTRAN.
 
 ###Age ain't nothing but a number.
 Vintage is cool again. I was late to the game on the lindy revival (swing music and dancing from the 1920s and '30s saw a resurgence in popularity in the '90s-- see: Gap commericals, Squirrel Nut Zippers) but with Clojure's popularity ramping up and spawning things like core.logic, something tells me Prolog's opportunity to re-emerge into the programming world's limelight is on the horizon.
 
-###I am wild about ((practically)dead) languages.
-In first undergrad, I studied Sanskrit and Gaelic for funsies. True story.
+###I am wild about dusty, obscure languages.
+In first undergrad, I studied Sanskrit and Gaelic for funsies. True story, bro.
 
 ###Epistemology fascinates me
-Also in first undergrad, I minored in philosophy, and my two favorite classes were Intro to Logic (Honors) and Philosophy of Knowledge (both of which happened to be taught by the department chair, whom I absolutely adored to no end). I can go down rabbit holes of how-does-one-define-truth for hours and weeks on end. I will openly confess that some part of me hopes that by learning how to define the fundamental elements of truthiness in Prolog, I will simultaneously learn how to do the same in the world overall.
+Also in first undergrad, I minored in philosophy, and my two favorite classes were Intro to Logic (Honors) and Philosophy of Knowledge (both of which happened to be taught by the department chair, who inspired me to pursue the minor in the first place). I can go down rabbit holes of how-does-one-define-truth for hours and weeks on end. I will openly confess that some part of me hopes that by learning how to define the fundamental elements of truthiness in Prolog, I will simultaneously learn how to do the same in the world overall.
 
 ##TL;DR
-This is a collection of notes documenting a burgeoning relationship between a 17-week-old programming red panda enthusiast and a 40-year-old obscure programming language.
+This project is a collection of stream-of-consciousness-esque notes documenting a burgeoning relationship between a 17-weeks-trained logic-and-language-loving programmer and a 41-year-old lovable logic programming language.
 
 **Questions? Suggestions? Words of encouragement?**: lora.abe@gmail.com
