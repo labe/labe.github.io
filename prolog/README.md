@@ -25,7 +25,7 @@ I have since resolved to learn as much as I can about Prolog. There's a fair amo
 ###Age ain't nothing but a number.
 Vintage is cool again. I was late to the game on the lindy revival (swing music and dancing from the 1920s and '30s saw a resurgence in popularity in the '90s-- see: Gap commericals, Squirrel Nut Zippers) but with Clojure's popularity ramping up and spawning things like core.logic, something tells me Prolog's opportunity to re-emerge into the programming world's limelight is on the horizon.
 
-###I am wild about dusty, obscure languages.
+###I am wild about dusty, obscure[1] languages.
 In first undergrad, I studied Sanskrit and Gaelic for funsies. True story, bro.
 
 ###Epistemology fascinates me
@@ -35,3 +35,8 @@ Also in first undergrad, I minored in philosophy, and my two favorite classes we
 This project is a collection of stream-of-consciousness-esque notes documenting a burgeoning relationship between a 17-weeks-trained logic-and-language-loving programmer and a 41-year-old lovable logic programming language.
 
 **Questions? Suggestions? Words of encouragement?**: lora.abe@gmail.com
+
+<br>
+<br>
+<br>
+<p style="font-size:12px">[1] "Dusty and obscure?!" you holler. "Prolog is the most POPULAR LOGIC PROGRAMMING LANGUAGE!" Well, yes, but popular amongst a very particular niche. On the <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">TIOBE popularity index</a>, Prolog currently ranks 36th with a usage share of 1/3 of 1 percent. Comparitively, FORTRAN is ranked 31st. On the other hand, Clojure isn't even ranked in the top 50, so, yeah. YMMV.</p>
